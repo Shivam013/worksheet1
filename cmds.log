@@ -1,0 +1,6 @@
+    1  wget    https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_02.tsv.gz
+    2  pwd
+    3  mkdir worksheet1
+    4  cd worksheet1/
+    5  git init
+    6  history > cmds.log
